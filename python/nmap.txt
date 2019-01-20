@@ -1,0 +1,20 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2018-01-10 10:34 IST
+Nmap scan report for 192.168.43.1
+Host is up (0.0020s latency).
+MAC Address: D2:F8:8C:9F:66:C1 (Unknown)
+Nmap scan report for 192.168.43.116
+Host is up (0.0011s latency).
+MAC Address: 08:00:27:29:C3:73 (Cadmus Computer Systems)
+Nmap scan report for 192.168.43.164
+Host is up (0.00045s latency).
+MAC Address: 08:00:27:A4:45:DB (Cadmus Computer Systems)
+Nmap scan report for HP (192.168.43.201)
+Host is up (0.00068s latency).
+MAC Address: C4:8E:8F:B0:64:AD (Unknown)
+Nmap scan report for 192.168.43.220
+Host is up (0.0011s latency).
+MAC Address: 08:00:27:F5:46:2C (Cadmus Computer Systems)
+Nmap scan report for 192.168.43.234
+Host is up.
+Nmap done: 256 IP addresses (6 hosts up) scanned in 1.98 seconds
